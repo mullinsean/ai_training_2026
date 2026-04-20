@@ -27,7 +27,7 @@ Each workshop is offered twice — attend whichever session works best for your 
 | # | Workshop | Duration | Session A | Session B |
 |---|----------|----------|-----------|-----------|
 | 1 | Introduction to LLMs & Context Engineering | 2 hrs | Tue, Apr 28 · 11:00 AM – 1:00 PM | Thu, Apr 30 · 1:00 PM – 3:00 PM |
-| 2 | AI for Writing, Communications & Presentations | 90 min | Tue, May 5 · 11:00 AM – 12:30 PM | Thu, May 15 · 1:30 PM – 3:00 PM |
+| 2 | AI for Writing, Communications & Presentations | 90 min | Tue, May 5 · 11:00 AM – 12:30 PM | Fri, May 15 · 1:30 PM – 3:00 PM |
 | 3 | AI for Analysis & Operations | 90 min | Tue, May 19 · 11:00 AM – 12:30 PM | Thu, May 21 · 1:30 PM – 3:00 PM |
 | 4 | AI for Research | 90 min | Wed, May 27 · 1:30 PM – 3:00 PM | Tue, Jun 2 · 11:00 AM – 12:30 PM |
 | 5 | Advanced AI — Coding Tools, Models & Agents | 90 min | Tue, Jun 16 · 11:00 AM – 12:30 PM | Thu, Jun 18 · 1:30 PM – 3:00 PM |

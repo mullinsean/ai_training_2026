@@ -1,0 +1,8 @@
+# Internal reference materials — not for public repo
+context/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~

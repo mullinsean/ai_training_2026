@@ -65,16 +65,6 @@ A preview of the frontier: using AI to write and debug code for automating analy
 
 ---
 
-## 🛠️ Tools You Can Use
-
-You can follow along using any of these platforms:
-- [Claude](https://claude.ai) — Anthropic's AI assistant
-- [ChatGPT](https://chat.openai.com) — OpenAI's conversational AI
-- [Google Gemini](https://gemini.google.com) — Google's multimodal AI
-- [Perplexity](https://www.perplexity.ai) — AI-powered search and answer engine
-
----
-
 ## 📧 Contact
 
 **Instructor:** Sean Mullin

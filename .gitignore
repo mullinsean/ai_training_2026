@@ -1,5 +1,6 @@
 # Internal reference materials — not for public repo
 context/
+CLAUDE.md
 
 # OS / editor cruft
 .DS_Store

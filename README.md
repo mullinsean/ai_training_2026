@@ -41,7 +41,27 @@ Each workshop is offered twice — attend whichever session works best for your 
 ### Workshop 1 — Introduction to LLMs & Context Engineering *(2 hrs)*
 A foundational deep dive into Large Language Models: how they work, where they excel, and where they fall short. We'll establish team norms for effective and responsible AI use — including data privacy, security, and safe input practices — and spend most of the session in a hands-on lab on **context engineering**: structuring prompts with clear instructions, relevant context, useful examples, and appropriate constraints to get reliable, high-quality outputs.
 
-*Materials: coming soon.*
+**Materials**
+- [Slide deck](./slide_decks/AI%20Training%20-%20Workshop%20%231%20-%20Spring%202026.pdf)
+
+**Examples**
+- Generating a project proposal from data + template — supporting file: [Backyard Fusion project proposal](./examples/workshop1/Project%20Backyard%20Fusion%20-%20Project%20Proposal.pdf)
+
+**Additional Resources**
+
+*Andrej Karpathy*
+- ["How I use LLMs"](https://www.youtube.com/watch?v=EWvNQjAaOHw)
+- ["Intro to Large Language Models"](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+
+*Prompting Guides*
+- [OpenAI – GPT-5.5 Prompting Guide](https://developers.openai.com/api/docs/guides/prompt-guidance)
+- [OpenAI – Using GPT-5.5](https://developers.openai.com/api/docs/guides/latest-model)
+- [Anthropic – Claude Prompting Best Practices](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices)
+- [Google – Gemini 3 Prompting Guide](https://docs.cloud.google.com/vertex-ai/generative-ai/docs/start/gemini-3-prompting-guide)
+
+*Learning Academies*
+- [Anthropic Academy](https://anthropic.skilljar.com/)
+- [OpenAI Academy](https://academy.openai.com/)
 
 ### Workshop 2 — AI for Writing, Communications & Presentations *(90 min)*
 Using AI to accelerate writing, communications, and presentation work. Through hands-on activities, we'll practice summarizing reports, brainstorming, drafting and refining complex documents (memos, grant proposals, briefings), and adapting technical content for different audiences — including translating dense material for policymakers and the public.

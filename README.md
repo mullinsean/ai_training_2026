@@ -45,7 +45,15 @@ A foundational deep dive into Large Language Models: how they work, where they e
 - [Slide deck](./slide_decks/AI%20Training%20-%20Workshop%20%231%20-%20Spring%202026.pdf)
 
 **Examples**
-- Generating a project proposal from data + template — supporting file: [Backyard Fusion project proposal](./examples/workshop1/Project%20Backyard%20Fusion%20-%20Project%20Proposal.pdf)
+
+| # | Description | Model | Supporting Files |
+|---|-------------|-------|------------------|
+| 1 | [Knowledge cutoff date](https://chatgpt.com/share/69f0ec45-44c4-83ea-b50e-77d583da4833) | ChatGPT | |
+| 2 | [Model knowledge and tool use](https://chatgpt.com/share/69f0ec11-9884-83ea-b887-6a6baa8d4194) | ChatGPT | |
+| 3 | [Summarize a podcast (simple)](https://claude.ai/share/0d79f0d2-09cf-4b86-a29b-eb6b3bb9eb5c) | Claude | [podcast transcript](https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2ff3db06-a25b-4d7b-9de9-b42f01476d14/transcript?format=TextWithTimestamps&t=1776455746) |
+| 4 | [Generating a prompt](https://claude.ai/share/f318a4d8-844c-4761-8459-d40f1e6c1b98) | Claude | |
+| 5 | [Summarize a podcast (enhanced)](https://claude.ai/share/f54b968a-2952-48fd-9ad4-7ceb91a1e668) | Claude | [podcast transcript](https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2ff3db06-a25b-4d7b-9de9-b42f01476d14/transcript?format=TextWithTimestamps&t=1776455746) |
+| 6 | [Modifying an existing proposal](https://gemini.google.com/share/c325f66dc580) | Gemini | [Backyard Fusion project proposal](./examples/workshop1/Project%20Backyard%20Fusion%20-%20Project%20Proposal.pdf) |
 
 **Additional Resources**
 

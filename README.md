@@ -95,7 +95,7 @@ Using AI to accelerate writing, analysis, and communications work. We break the 
 |---|---------------|---------|---------|
 | 1 | Blog Post | Applying a style guide | Creating a style guide: [chat](https://chatgpt.com/share/69f9f088-0470-83ea-afa6-98ad60feadd8), [output](https://chatgpt.com/canvas/shared/69f9f21cc7948191a360dd60903bffe1)<br>Blog post: [chat](https://claude.ai/share/9b6d32dc-ca47-41e3-ab73-27ffecd95735), [output](https://claude.ai/public/artifacts/2cb1a7e6-547a-4630-af2a-eb39ec5324a9) |
 | 2 | Social Media Posts | Using examples | Social media posts: [chat](https://chatgpt.com/share/69f9f90b-a970-83ea-a064-d186331ee8e1) |
-| 3 | Article for The Economist | Using a Claude Skill to apply a style guide | Creating Claude Skill: [chat](https://claude.ai/share/01171078-5c5f-4c65-bb76-0b690cbf6423)<br>Writing article: [chat](https://claude.ai/share/834d8074-ff5b-4b82-8ea6-ad86e0e49d53), [output](https://claude.ai/public/artifacts/089ad074-850b-4827-b7be-3f6454d3a20b) |
+| 3 | Article for The Economist | Using a Claude Skill to apply a style guide | Creating Claude Skill: [chat](https://claude.ai/share/01171078-5c5f-4c65-bb76-0b690cbf6423), [output](https://claude.ai/public/artifacts/ac89f54e-e0f5-4f4a-9a2e-9f0262831298)<br>Writing article: [chat](https://claude.ai/share/834d8074-ff5b-4b82-8ea6-ad86e0e49d53), [output](https://claude.ai/public/artifacts/089ad074-850b-4827-b7be-3f6454d3a20b) |
 | 4 | Slide deck | Experimental: testing the [perplexity.ai](https://www.perplexity.ai/) slide deck feature | Slide deck: [chat](https://www.perplexity.ai/search/3dc12b68-e48d-4110-8de4-d4bdd823874d?preview=1) |
 
 **Additional Resources**

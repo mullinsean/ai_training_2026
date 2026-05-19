@@ -71,6 +71,8 @@ A foundational deep dive into Large Language Models: how they work, where they e
 - [Anthropic Academy](https://anthropic.skilljar.com/)
 - [OpenAI Academy](https://academy.openai.com/)
 
+---
+
 ### Workshop 2 — AI for Writing, Communications & Presentations *(90 min)*
 Using AI to accelerate writing, analysis, and communications work. We break the writing process into stages — background materials, rough outline, annotated outline, draft, and final document — and apply human review at each stage so the LLM speeds up the drudge work without flattening the analysis. Then we extend the resulting memo into other formats (blog post, social posts, long-form article, slide deck) using style guides, templates, and Claude Skills / Custom GPTs to keep tone and structure consistent. We also touch on brainstorming, verification and stress-testing of arguments, and structured data extraction from long documents — and note how style guides double as translation guides (e.g., English → French Canadian).
 
@@ -105,6 +107,8 @@ Using AI to accelerate writing, analysis, and communications work. We break the 
 - [Using Generative AI — University of Waterloo Writing Centre](https://uwaterloo.ca/writing-and-communication-centre/Resources-AI-Overview)
 - [Guide on the Use of Generative AI — Government of Canada](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)
 
+---
+
 ### Workshop 3 — AI for Analysis & Operations *(90 min)*
 AI-driven approaches to internal operations and quantitative work. We start with project management workflows — using LLMs across the meeting cycle to generate agendas, transcripts, summaries, and status updates. Next we look at how to connect AI tools to your data (direct uploads, project files, shared drives, and MCP connectors), including how Retrieval Augmented Generation (RAG) works behind the scenes. We then turn to hands-on quantitative work: exploring datasets, building models, and generating insights in Excel. We close with creating presentations from source documents and a set of productivity techniques — image generation, scheduling recurring queries, and using AI for brainstorming and rapid prototyping.
 
@@ -137,10 +141,14 @@ Building a presentation from a source document — a House of Commons committee 
 | 1 | Generate Outline | Generate a rough outline, then a more detailed outline, from the original report | [chat](https://claude.ai/share/289f56fe-6024-49a1-a415-ef8ed594897f), [output (.md)](https://claude.ai/public/artifacts/84afed48-3985-4754-bda2-ddea8fd0d9f2) |
 | 2 | Generate the Presentation | Generate a draft presentation using the outline | Claude: [chat](https://claude.ai/share/15fd24b7-a019-4fc0-be7d-fa2a1415d073), [output (.pptx)](./examples/workshop3/Canada_DIS_Report_Presentation%20-%20Claude.pptx)<br>ChatGPT: [chat](https://chatgpt.com/share/6a0c53bd-1a80-83ea-9587-4571131d28d4), [output (.pptx)](./examples/workshop3/DIS_report_overview_draft%20-%20ChatGPT.pptx)<br>Gemini: [chat](https://gemini.google.com/share/06f93314be95), [output](https://gemini.google.com/share/e60a3b8bb50b) |
 
+---
+
 ### Workshop 4 — AI for Research *(90 min)*
 Techniques for more efficient research and synthesis. We'll cover finding and extracting information with LLMs, using Deep Research features for complex topics, summarizing diverse media (academic papers, reports, video), in-depth policy document analysis, stakeholder mapping, and integrating AI with research tools like NotebookLM and Zotero.
 
 *Materials: coming soon.*
+
+---
 
 ### Workshop 5 — Advanced AI — Coding Tools, Models & Agents *(90 min)*
 A preview of the frontier: using AI to write and debug code for automating analysis (Python, R), and an introduction to **AI agents** — systems that perform multi-step tasks with tools. We'll look at the three levels of coding with LLMs (chat-window "vibe coding," IDE integration, and full agentic coding with tools like Claude Code) and close with an interactive session to identify AI applications each participant can explore over the following month.

@@ -106,9 +106,36 @@ Using AI to accelerate writing, analysis, and communications work. We break the 
 - [Guide on the Use of Generative AI — Government of Canada](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)
 
 ### Workshop 3 — AI for Analysis & Operations *(90 min)*
-AI-driven approaches to internal operations and quantitative work. Topics include connecting AI tools to your data (uploads, project files, shared drives), using AI for spreadsheet-based analysis, project management workflows (task breakdown, risk assessment), meeting note-taking, smart email templates, and building searchable knowledge bases from internal documents.
+AI-driven approaches to internal operations and quantitative work. We start with project management workflows — using LLMs across the meeting cycle to generate agendas, transcripts, summaries, and status updates. Next we look at how to connect AI tools to your data (direct uploads, project files, shared drives, and MCP connectors), including how Retrieval Augmented Generation (RAG) works behind the scenes. We then turn to hands-on quantitative work: exploring datasets, building models, and generating insights in Excel. We close with creating presentations from source documents and a set of productivity techniques — image generation, scheduling recurring queries, and using AI for brainstorming and rapid prototyping.
 
-*Materials: coming soon.*
+**Materials**
+- [Slide deck](./slide_decks/AI%20Training%20-%20Workshop%20%233%20-%20Spring%202026.pdf)
+
+**Examples**
+
+#### Project Management
+
+- [Project Overview Example: "Beyond Zero"](./examples/workshop3/Project%20Overview%20Example%20%28Beyond%20Zero%29.pdf) — sample project overview document used to provide context across the project management cycle
+
+#### Data & Quantitative Analysis with Excel
+
+A fuel consumption ratings analysis using [NRCan open data](https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64):
+
+| # | Process Step | Activity | Example |
+|---|--------------|----------|---------|
+| 1 | Explore Data Set | Generate a table of average fuel efficiency by manufacturer | Claude: [chat](https://claude.ai/share/372ef98d-d2de-41b0-9b4b-0777eea61653), [output (.md)](https://claude.ai/public/artifacts/9f77c1a6-543c-4ac1-9943-bfe1871c1152)<br>ChatGPT: [chat](https://chatgpt.com/share/6a0bc333-51e8-83ea-9d77-d72356485f24), [output (.xlsx)](./examples/workshop3/2025_canada_fuel_efficiency_by_manufacturer%20-%20chatgpt.xlsx) |
+| 2 | Build a Model in Excel | Build a model that calculates the value of fuel efficiency savings between two vehicles | Claude: [chat](https://claude.ai/share/372ef98d-d2de-41b0-9b4b-0777eea61653), [output (.xlsx)](./examples/workshop3/hybrid-breakeven-model%20-%20claude.xlsx)<br>ChatGPT: [chat](https://chatgpt.com/share/6a0bc333-51e8-83ea-9d77-d72356485f24), [output (.xlsx)](./examples/workshop3/hybrid_vehicle_breakeven_model%20-%20chatgpt.xlsx)<br>Gemini: [output (.xlsx)](./examples/workshop3/Break_Even_Calculator%20-%20gemini.xlsx) |
+| 3 | Investigate Trends & Answer Detailed Questions | Which vehicles showed the biggest fuel efficiency increase over 2014–2025? What was the average increase from introducing a hybrid model? | [chat](https://claude.ai/share/528f80e9-6881-4227-9926-a759f711cce9), [output (.xlsx)](./examples/workshop3/canada_fuel_economy_change_2015-2025.xlsx) |
+| 4 | Generating Insights from Data | Ask the model to generate insights from the data | [chat](https://claude.ai/share/528f80e9-6881-4227-9926-a759f711cce9), [output (.md)](https://claude.ai/public/artifacts/682b58c6-13f0-43d0-9059-b0455338d9d2) |
+
+#### Creating a PowerPoint Presentation
+
+Building a presentation from a source document — a House of Commons committee report on Canada's Defence Industrial Strategy:
+
+| # | Process Step | Activity | Example |
+|---|--------------|----------|---------|
+| 1 | Generate Outline | Generate a rough outline, then a more detailed outline, from the original report | [chat](https://claude.ai/share/289f56fe-6024-49a1-a415-ef8ed594897f), [output (.md)](https://claude.ai/public/artifacts/84afed48-3985-4754-bda2-ddea8fd0d9f2) |
+| 2 | Generate the Presentation | Generate a draft presentation using the outline | Claude: [chat](https://claude.ai/share/15fd24b7-a019-4fc0-be7d-fa2a1415d073), [output (.pptx)](./examples/workshop3/Canada_DIS_Report_Presentation%20-%20Claude.pptx)<br>ChatGPT: [chat](https://chatgpt.com/share/6a0c53bd-1a80-83ea-9587-4571131d28d4), [output (.pptx)](./examples/workshop3/DIS_report_overview_draft%20-%20ChatGPT.pptx)<br>Gemini: [chat](https://gemini.google.com/share/06f93314be95), [output](https://gemini.google.com/share/e60a3b8bb50b) |
 
 ### Workshop 4 — AI for Research *(90 min)*
 Techniques for more efficient research and synthesis. We'll cover finding and extracting information with LLMs, using Deep Research features for complex topics, summarizing diverse media (academic papers, reports, video), in-depth policy document analysis, stakeholder mapping, and integrating AI with research tools like NotebookLM and Zotero.

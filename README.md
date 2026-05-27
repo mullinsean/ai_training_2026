@@ -146,7 +146,24 @@ Building a presentation from a source document — a House of Commons committee 
 ### Workshop 4 — AI for Research *(90 min)*
 Techniques for more efficient research and synthesis. We'll cover finding and extracting information with LLMs, using Deep Research features for complex topics, summarizing diverse media (academic papers, reports, video), in-depth policy document analysis, stakeholder mapping, and integrating AI with research tools like NotebookLM and Zotero.
 
-*Materials: coming soon.*
+**Materials**
+- [Slide deck](./slide_decks/AI%20Training%20-%20Workshop%20%234%20-%20Spring%202026.pdf)
+
+**Examples**
+
+#### Deep Research
+
+| # | Description | Model | Output |
+|---|-------------|-------|--------|
+| 1 | Geopolitical situation in South Korea | ChatGPT | [pdf](./examples/workshop4/Recent%20Political%20and%20Geopolitical%20Developments%20in%20South%20Korea%20%282022%E2%80%932025%29.pdf) |
+| 2 | [History of Bill C-27 (Digital Charter Act)](https://gemini.google.com/share/a07a94650ae7) | Gemini | [pdf](./examples/workshop4/Bill%20C-27%20Hansard%20Review.pdf) |
+| 3 | [Media & Stakeholder Reception to Budget 2025](https://gemini.google.com/share/1f9039ad51ca) | Gemini | [pdf](./examples/workshop4/Budget%202025%20Climate%20Policy%20Scan.pdf) |
+| 4 | [Analysis of Canada's Critical Minerals Sector](https://www.perplexity.ai/search/510af542-fb98-4a22-b2ce-264d733663c7?preview=1) | Perplexity.ai | [output](https://www.perplexity.ai/computer/a/5c01fcba-6254-4012-b2d2-ac66dd86cf4c) |
+
+#### Research Tools & Advanced Techniques
+
+- [NotebookLM example](https://notebooklm.google.com/notebook/ea1a2092-36a8-47ee-9727-dfb48baa4293) — using NotebookLM for multi-document research synthesis
+- [Advanced techniques](https://gemini.google.com/share/3b05ae3a781f) — comparison matrix, red teaming, and gap analysis with Gemini
 
 ---
 

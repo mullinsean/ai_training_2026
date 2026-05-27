@@ -155,7 +155,7 @@ Techniques for more efficient research and synthesis. We'll cover finding and ex
 
 | # | Description | Model | Output |
 |---|-------------|-------|--------|
-| 1 | Geopolitical situation in South Korea | ChatGPT | [pdf](./examples/workshop4/Recent%20Political%20and%20Geopolitical%20Developments%20in%20South%20Korea%20%282022%E2%80%932025%29.pdf) |
+| 1 | [Geopolitical situation in South Korea](https://chatgpt.com/share/692efd6c-e05c-8001-8c6c-c5dd1bb8ebcd) | ChatGPT | [pdf](./examples/workshop4/Recent%20Political%20and%20Geopolitical%20Developments%20in%20South%20Korea%20%282022%E2%80%932025%29.pdf) |
 | 2 | [History of Bill C-27 (Digital Charter Act)](https://gemini.google.com/share/a07a94650ae7) | Gemini | [pdf](./examples/workshop4/Bill%20C-27%20Hansard%20Review.pdf) |
 | 3 | [Media & Stakeholder Reception to Budget 2025](https://gemini.google.com/share/1f9039ad51ca) | Gemini | [pdf](./examples/workshop4/Budget%202025%20Climate%20Policy%20Scan.pdf) |
 | 4 | [Analysis of Canada's Critical Minerals Sector](https://www.perplexity.ai/search/510af542-fb98-4a22-b2ce-264d733663c7?preview=1) | Perplexity.ai | [output](https://www.perplexity.ai/computer/a/5c01fcba-6254-4012-b2d2-ac66dd86cf4c) |

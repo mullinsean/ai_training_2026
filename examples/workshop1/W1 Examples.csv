@@ -1,0 +1,7 @@
+﻿Description,Model,Link,Input,Output
+Knowledge cutoff date,ChatGPT,https://chatgpt.com/share/69f0ec45-44c4-83ea-b50e-77d583da4833,,
+Model knowledge and tool use,ChatGPT,https://chatgpt.com/share/69f0ec11-9884-83ea-b887-6a6baa8d4194,,
+Summarize a podcast (simple),Claude,https://claude.ai/share/0d79f0d2-09cf-4b86-a29b-eb6b3bb9eb5c,https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2ff3db06-a25b-4d7b-9de9-b42f01476d14/transcript?format=TextWithTimestamps&t=1776455746,
+Generating a prompt,Claude,https://claude.ai/share/f318a4d8-844c-4761-8459-d40f1e6c1b98,,
+Summarize a podcast (enhanced),Claude,https://claude.ai/share/f54b968a-2952-48fd-9ad4-7ceb91a1e668,https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2ff3db06-a25b-4d7b-9de9-b42f01476d14/transcript?format=TextWithTimestamps&t=1776455746,
+Modifying an existing proposal,Gemini,https://gemini.google.com/share/c325f66dc580,https://github.com/mullinsean/ai_training_2026/blob/main/examples/workshop1/Project%20Backyard%20Fusion%20-%20Project%20Proposal.pdf,

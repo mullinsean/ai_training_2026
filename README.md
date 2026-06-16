@@ -170,7 +170,42 @@ Techniques for more efficient research and synthesis. We'll cover finding and ex
 ### Workshop 5 — Advanced AI — Coding Tools, Models & Agents *(90 min)*
 A preview of the frontier: using AI to write and debug code for automating analysis (Python, R), and an introduction to **AI agents** — systems that perform multi-step tasks with tools. We'll look at the three levels of coding with LLMs (chat-window "vibe coding," IDE integration, and full agentic coding with tools like Claude Code) and close with an interactive session to identify AI applications each participant can explore over the following month.
 
-*Materials: coming soon.*
+**Materials**
+- [Slide deck](./slide_decks/AI%20Training%20-%20Workshop%20%235%20-%20Spring%202026.pdf)
+
+**Examples**
+
+#### Level 1 — "Vibe Coding"
+
+Prompting an LLM to write a quick script directly in the chat window, then inspecting and running the output:
+
+| # | Description | Model | Supporting Files |
+|---|-------------|-------|------------------|
+| 1 | [Plot real GDP per capita for G7 countries (2010–2025)](https://gemini.google.com/share/2b8c35d6ce46) | Gemini | [Python script](./examples/workshop5/plot_GDP_Gemini.py), [chart output](./examples/workshop5/G7_GDP_plots.png) |
+
+#### Agentic Coding
+
+Using a command-line coding agent (Claude Code) for non-coding work — here, summarizing a folder of PDFs into a single document:
+
+- [Summaries of economic research papers](./examples/workshop5/SUMMARIES.md) — seven academic papers on AI adoption, summarized by a Claude Code agent working across the folder
+
+**Additional Resources**
+
+*Tools*
+- [Claude Code](https://claude.com/product/claude-code) · [Codex](https://openai.com/codex/) · [Cursor](https://cursor.com/) · [Windsurf](https://windsurf.com/)
+- [Google AI Studio](https://aistudio.google.com/) · [Vercel](https://vercel.com/) · [Replit](https://replit.com/)
+
+*Guides*
+- [Claude Code documentation](https://code.claude.com/docs/en/overview)
+- [Codex quickstart](https://developers.openai.com/codex/quickstart/)
+- [Open Deep Research (LangChain)](https://blog.langchain.com/open-deep-research/)
+- [Writing a good CLAUDE.md file](https://www.humanlayer.dev/blog/writing-a-good-claude-md)
+
+*Articles & People*
+- [Simon Willison's blog](https://simonwillison.net/)
+- [Claude Code in Action (course)](https://anthropic.skilljar.com/claude-code-in-action)
+- [Social Science Tech Stack — Kevin Bryan](https://kevinbryanecon.com/techstack.html)
+- [Claude Code for Economists](https://adrienmatray-ai.com/index.html)
 
 ---
 

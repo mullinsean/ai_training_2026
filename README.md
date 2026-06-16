@@ -165,6 +165,10 @@ Techniques for more efficient research and synthesis. We'll cover finding and ex
 - [NotebookLM example](https://notebooklm.google.com/notebook/ea1a2092-36a8-47ee-9727-dfb48baa4293) — using NotebookLM for multi-document research synthesis
 - [Advanced techniques](https://gemini.google.com/share/3b05ae3a781f) — comparison matrix, red teaming, and gap analysis with Gemini
 
+**Additional Resources**
+
+- ["On the limits and opportunities of AI reviewers: Reviewing the reviews of Nature-family papers with 45 expert scientists"](https://arxiv.org/pdf/2605.20668)
+
 ---
 
 ### Workshop 5 — Advanced AI — Coding Tools, Models & Agents *(90 min)*
